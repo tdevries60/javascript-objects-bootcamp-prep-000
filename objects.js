@@ -1,0 +1,1 @@
+var playlist = object.assign();
