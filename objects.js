@@ -3,3 +3,6 @@ var playlist = {
   segar: 'song2'
 }
 
+function updatePlaylist(playlist, artistName, songTitle) {
+  
+}
