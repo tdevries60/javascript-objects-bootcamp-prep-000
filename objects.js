@@ -1,1 +1,4 @@
-var playlist = object.assign();
+var playlist = {
+  cher: 'song1',
+  segar: 'song2'
+}
